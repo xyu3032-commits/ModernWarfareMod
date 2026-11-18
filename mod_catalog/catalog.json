@@ -1,0 +1,45 @@
+{
+	"catalog_version": 1,
+	"mods": [
+		{
+			"id": "cn_us_military",
+			"name": "现代战争（中文版）",
+			"icon": "",
+			"version": "1.0.0",
+			"size": 80014813,
+			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v1.0.0/cn_us_military.dfmod",
+			"sha256": "480b600ffd28f8add8fe752bdb006f31c91abea23418ebc170915a15a6d04df1",
+			"description": "中、美、俄、法四阵营现代战争模组（中文版）。"
+		},
+		{
+			"id": "cn_us_military",
+			"name": "现代战争（English）",
+			"icon": "",
+			"version": "1.0.0",
+			"size": 80008463,
+			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v1.0.0/cn_us_military_en.dfmod",
+			"sha256": "df601259629f6801bb9c8b57490cd057d23b4d5597682675aae816c1f87d3861",
+			"description": "Modern Warfare mod, English version (CN/US/RU/FR factions)."
+		},
+		{
+			"id": "cn_us_military",
+			"name": "现代战争（Русский）",
+			"icon": "",
+			"version": "1.0.0",
+			"size": 80050422,
+			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v1.0.0/cn_us_military_ru.dfmod",
+			"sha256": "c23519ef014eec59efb9bbeab2f299fe8334d5310668601ef9db190e7fb4a920",
+			"description": "Мод «Современная война», русская версия (фракции: Китай, США, Россия, Франция)."
+		},
+		{
+			"id": "cn_us_military",
+			"name": "现代战争（Français）",
+			"icon": "",
+			"version": "1.0.0",
+			"size": 80025187,
+			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v1.0.0/cn_us_military_fr.dfmod",
+			"sha256": "88e68eb1c66a0d9a3e98c5bb6d56a521837a3670fcece4ea2f9c77c12d10c41e",
+			"description": "Mod Guerre moderne, version française (factions CN/US/RU/FR)."
+		}
+	]
+}
