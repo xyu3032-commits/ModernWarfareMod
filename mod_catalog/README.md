@@ -4,7 +4,7 @@
 
 ## 文件
 
-- `index.json` — 源索引：`sources` 数组，每项 `{id, name, url}`，`url` 指向某个仓库的 `catalog.json`（raw 直链）。游戏先拉索引，再逐个拉各源目录合并展示；任一源失败只跳过该源。**加新仓库 = 往 `sources` 里加一项。**
+- 源索引 `index.json` 已迁至专用仓库 [DroneFlamesModStore](https://github.com/xyu3032-commits/DroneFlamesModStore)（根目录）：`sources` 数组，每项 `{id, name, url}`，`url` 指向某个仓库的 `catalog.json`（raw 直链）。游戏先拉索引，再逐个拉各源目录合并展示；任一源失败只跳过该源。**加新仓库 = 往那里的 `sources` 里加一项。** 本仓库是其中的一个源（modern_warfare）。
 - `catalog.json` — 本仓库的模组目录：`mods` 数组，字段与旧版相同（id/name/icon/version/size/download_url/sha256/description），新增可选字段 `category`。
 
 ## 条目分类（category）
@@ -16,7 +16,7 @@
 ## 上新 mod 的步骤
 
 1. 把 .dfmod 传到某个 Release，在对应仓库的 `catalog.json` 里加一条（id/名称/版本/直链/大小/sha256/描述，可带 `category`）。
-2. 若是全新仓库：先在该仓库放好 `catalog.json`，再往本仓库 `index.json` 的 `sources` 加一项。
+2. 若是全新仓库：先在该仓库放好 `catalog.json`，再往 [DroneFlamesModStore](https://github.com/xyu3032-commits/DroneFlamesModStore) 仓库根目录 `index.json` 的 `sources` 加一项。
 3. 推送后即时生效；玩家打开「下载模组」页签就会看到（下载后默认禁用，需在已安装列表手动启用）。
 
 玩家也可以在商店里点「添加源」，粘贴任意 `catalog.json` 直链作为个人自定义源（只存本地）。
