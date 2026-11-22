@@ -8,7 +8,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 80018908,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0/cn_us_military.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/cn_us_military.dfmod",
 			"sha256": "d9b0d1a0b43e65f217b84c19ed2c384c682f522fc666cfc22251c326cff6baeb",
 			"description": "中、美、俄、法四阵营现代战争模组（中文版）。"
 		},
@@ -19,7 +19,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 80012469,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0/cn_us_military_en.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/cn_us_military_en.dfmod",
 			"sha256": "5870369fcd31176fd70386f617fe8aab62f2dc8259f8c55b9516ad83d5346d69",
 			"description": "Modern Warfare mod, English version (CN/US/RU/FR factions)."
 		},
@@ -30,7 +30,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 80054648,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0/cn_us_military_ru.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/cn_us_military_ru.dfmod",
 			"sha256": "59cf3efbe5697befe8746dd72ba855e09d16ca30ed74cb1013bdda8afb858356",
 			"description": "Мод «Современная война», русская версия (фракции: Китай, США, Россия, Франция)."
 		},
@@ -41,7 +41,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 80029202,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0/cn_us_military_fr.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/cn_us_military_fr.dfmod",
 			"sha256": "28f396f45a19e90314b4c5bea27d973d6dae66fe6dd78a03340b90c013b16606",
 			"description": "Mod Guerre moderne, version française (factions CN/US/RU/FR)."
 		},
@@ -52,7 +52,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27721096,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_cn.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_cn.dfmod",
 			"sha256": "a5564358a878a1c73fc23c327f2eee6a2b0932429c74ac071c299bbaead65b31",
 			"description": "现代战争模块化阵营包·中国（中文版）：只含中国阵营，可与其它模块包同时启用拼装。"
 		},
@@ -63,7 +63,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27715075,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_cn_en.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_cn_en.dfmod",
 			"sha256": "d1146d196e5c2031556455a73cef87d285ca4cf90bbc2f153f119de40cb47c46",
 			"description": "Modern Warfare modular faction pack · China (English): China faction only; can be enabled together with other modular packs."
 		},
@@ -74,7 +74,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27759741,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_cn_ru.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_cn_ru.dfmod",
 			"sha256": "4776a04222aec4bbd1fbe02dab456352b2e6feb450aa33cf836303aeb90b721a",
 			"description": "Модульный пакет фракций «Современная война» · Китай (русская версия): только фракция Китай; можно включать вместе с другими модульными пакетами."
 		},
@@ -85,7 +85,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27731895,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_cn_fr.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_cn_fr.dfmod",
 			"sha256": "750110fe27dbfbb3540d3f87ce7ccd1a37e6cdcb6b0407cabeae4b486b62a183",
 			"description": "Pack de faction modulaire Guerre moderne · Chine (version française) : faction Chine uniquement ; peut être activé avec les autres packs modulaires."
 		},
@@ -96,7 +96,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27042793,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_us.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_us.dfmod",
 			"sha256": "f4e4cb43a006662517f534b6bb0cf1dad7782b17eec69f80ac82196141a88b89",
 			"description": "现代战争模块化阵营包·美国（中文版）：只含美国阵营，可与其它模块包同时启用拼装。"
 		},
@@ -107,7 +107,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27036772,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_us_en.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_us_en.dfmod",
 			"sha256": "c43263b05191421d2ce338b4687b5d78328bc977a97b1b31308bfb65c6ac0bf9",
 			"description": "Modern Warfare modular faction pack · USA (English): USA faction only; can be enabled together with other modular packs."
 		},
@@ -118,7 +118,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27081436,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_us_ru.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_us_ru.dfmod",
 			"sha256": "e2bd34c7d867cfc0748d8affe007d7f70af5a9b48764ab84b3a1fce6ac195e11",
 			"description": "Модульный пакет фракций «Современная война» · США (русская версия): только фракция США; можно включать вместе с другими модульными пакетами."
 		},
@@ -129,7 +129,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27053592,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_us_fr.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_us_fr.dfmod",
 			"sha256": "da59688902723be9c17dc436b716c82b7e4a3fcbccc9a0791351dbe0f7ffcb38",
 			"description": "Pack de faction modulaire Guerre moderne · États-Unis (version française) : faction États-Unis uniquement ; peut être activé avec les autres packs modulaires."
 		},
@@ -140,7 +140,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 26179156,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_ru.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_ru.dfmod",
 			"sha256": "ec587d1e0ab735e0f126afa4d95ed4e14666263a41dc4915bad61c5a3d114842",
 			"description": "现代战争模块化阵营包·俄罗斯（中文版）：只含俄罗斯阵营，可与其它模块包同时启用拼装。"
 		},
@@ -151,7 +151,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 26173135,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_ru_en.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_ru_en.dfmod",
 			"sha256": "918e946c2ace88c5b4e76297fa571527c84ae570db02e540107b6ef06ecf0f8e",
 			"description": "Modern Warfare modular faction pack · Russia (English): Russia faction only; can be enabled together with other modular packs."
 		},
@@ -162,7 +162,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 26217805,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_ru_ru.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_ru_ru.dfmod",
 			"sha256": "5ad6b3ac03a93c4de0acc5c5ab494f36799997ac321aae9b7340293b9c91f34c",
 			"description": "Модульный пакет фракций «Современная война» · Россия (русская версия): только фракция Россия; можно включать вместе с другими модульными пакетами."
 		},
@@ -173,7 +173,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 26189955,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_ru_fr.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_ru_fr.dfmod",
 			"sha256": "aaeee99953ba05d02b34ed035036acd823cc5e05821f921060870f21229afdad",
 			"description": "Pack de faction modulaire Guerre moderne · Russie (version française) : faction Russie uniquement ; peut être activé avec les autres packs modulaires."
 		},
@@ -184,7 +184,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27644469,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_fr.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_fr.dfmod",
 			"sha256": "e0e88697a9c8c2068260514730fbde948e06756dc8073ec5cadd1f9dc96a7cd0",
 			"description": "现代战争模块化阵营包·法国（中文版）：只含法国阵营，可与其它模块包同时启用拼装。"
 		},
@@ -195,7 +195,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27638447,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_fr_en.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_fr_en.dfmod",
 			"sha256": "2d524ce4e939d9116362d162ba907ecf4dcea798055f318f10ba4458cda6e4d4",
 			"description": "Modern Warfare modular faction pack · France (English): France faction only; can be enabled together with other modular packs."
 		},
@@ -206,7 +206,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27683114,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_fr_ru.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_fr_ru.dfmod",
 			"sha256": "7ef1cb8ffdbaff6af21af647e5b23be1bd767293b62f87019323660b3d927f49",
 			"description": "Модульный пакет фракций «Современная война» · Франция (русская версия): только фракция Франция; можно включать вместе с другими модульными пакетами."
 		},
@@ -217,7 +217,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 27655270,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_fr_fr.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_fr_fr.dfmod",
 			"sha256": "715cf102ec54d005c70a7dae622fc8891b05deb0816fe6f23c264dbe72d92662",
 			"description": "Pack de faction modulaire Guerre moderne · France (version française) : faction France uniquement ; peut être activé avec les autres packs modulaires."
 		},
@@ -228,7 +228,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 34741494,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_uk.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_uk.dfmod",
 			"sha256": "bb5c0a870324a8eb9dae98241513d8d306c5f4f6ed55f9ca62c820eb56ccaf23",
 			"description": "现代战争模块化阵营包·英国（中文版）：只含英国阵营，可与其它模块包同时启用拼装。"
 		},
@@ -239,7 +239,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 34735473,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_uk_en.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_uk_en.dfmod",
 			"sha256": "da087cb02c05c904ff03a6d921dcb9f1697ccad2cec72a3f8ab2c781f1621fbe",
 			"description": "Modern Warfare modular faction pack · UK (English): UK faction only; can be enabled together with other modular packs."
 		},
@@ -250,7 +250,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 34780139,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_uk_ru.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_uk_ru.dfmod",
 			"sha256": "4efb912bd2a65575ae505d4240bfe542d0a5ca80156f823d3b6354a054a8373b",
 			"description": "Модульный пакет фракций «Современная война» · Великобритания (русская версия): только фракция Великобритания; можно включать вместе с другими модульными пакетами."
 		},
@@ -261,7 +261,7 @@
 			"icon": "",
 			"version": "3.0.0",
 			"size": 34752296,
-			"download_url": "https://github.com/xyu3032-commits/ModernWarfareMod/releases/download/v3.0.0-modular/mw_uk_fr.dfmod",
+			"download_url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/files/mw_uk_fr.dfmod",
 			"sha256": "edcccd68573f58005a5aa5fe67695a972a9caacafe6466fbd4438dde57bf567b",
 			"description": "Pack de faction modulaire Guerre moderne · Royaume-Uni (version française) : faction Royaume-Uni uniquement ; peut être activé avec les autres packs modulaires."
 		}
