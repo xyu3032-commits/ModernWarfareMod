@@ -4,6 +4,7 @@
 		{
 			"id": "cn_us_military",
 			"name": "现代战争（中文版）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -15,6 +16,7 @@
 		{
 			"id": "cn_us_military",
 			"name": "现代战争（English）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -26,6 +28,7 @@
 		{
 			"id": "cn_us_military",
 			"name": "现代战争（Русский）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -37,6 +40,7 @@
 		{
 			"id": "cn_us_military",
 			"name": "现代战争（Français）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -48,6 +52,7 @@
 		{
 			"id": "mw_cn",
 			"name": "现代战争模块·中国（中文版）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -59,6 +64,7 @@
 		{
 			"id": "mw_cn",
 			"name": "现代战争模块·中国（English）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -70,6 +76,7 @@
 		{
 			"id": "mw_cn",
 			"name": "现代战争模块·中国（Русский）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -81,6 +88,7 @@
 		{
 			"id": "mw_cn",
 			"name": "现代战争模块·中国（Français）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -92,6 +100,7 @@
 		{
 			"id": "mw_us",
 			"name": "现代战争模块·美国（中文版）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -103,6 +112,7 @@
 		{
 			"id": "mw_us",
 			"name": "现代战争模块·美国（English）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -114,6 +124,7 @@
 		{
 			"id": "mw_us",
 			"name": "现代战争模块·美国（Русский）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -125,6 +136,7 @@
 		{
 			"id": "mw_us",
 			"name": "现代战争模块·美国（Français）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -136,6 +148,7 @@
 		{
 			"id": "mw_ru",
 			"name": "现代战争模块·俄罗斯（中文版）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -147,6 +160,7 @@
 		{
 			"id": "mw_ru",
 			"name": "现代战争模块·俄罗斯（English）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -158,6 +172,7 @@
 		{
 			"id": "mw_ru",
 			"name": "现代战争模块·俄罗斯（Русский）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -169,6 +184,7 @@
 		{
 			"id": "mw_ru",
 			"name": "现代战争模块·俄罗斯（Français）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -180,6 +196,7 @@
 		{
 			"id": "mw_fr",
 			"name": "现代战争模块·法国（中文版）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -191,6 +208,7 @@
 		{
 			"id": "mw_fr",
 			"name": "现代战争模块·法国（English）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -202,6 +220,7 @@
 		{
 			"id": "mw_fr",
 			"name": "现代战争模块·法国（Русский）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -213,6 +232,7 @@
 		{
 			"id": "mw_fr",
 			"name": "现代战争模块·法国（Français）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -224,6 +244,7 @@
 		{
 			"id": "mw_uk",
 			"name": "现代战争模块·英国（中文版）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -235,6 +256,7 @@
 		{
 			"id": "mw_uk",
 			"name": "现代战争模块·英国（English）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -246,6 +268,7 @@
 		{
 			"id": "mw_uk",
 			"name": "现代战争模块·英国（Русский）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
@@ -257,6 +280,7 @@
 		{
 			"id": "mw_uk",
 			"name": "现代战争模块·英国（Français）",
+			"author": "xyu3032-commits",
 			"category": "现代战争",
 			"icon": "",
 			"version": "3.0.0",
